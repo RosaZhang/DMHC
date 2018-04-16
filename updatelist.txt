@@ -1,0 +1,4 @@
+DigimonHC 19-09-17
+
+CardGeneralURLs:
+https://github.com/RosaZhang/DigimonHC

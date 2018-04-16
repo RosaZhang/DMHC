@@ -1,0 +1,55 @@
+Name	Set	ImageFile	Evo/Activation	Level	Frame	Group	Type	Attribute	Field	AT	AP	BP	CP	Abilities	LostPoint
+Metal Greymon	Bo1	Bo-1	Greymon + Winning Percentage: 40%! Devimon + Winning Percentage: 40%!	Perfect	Blue		Cyborg	Virus	ME	C	490	440	170	(O)Has the ability "sky".	III30 IV20 P10 U10
+Devimon	Bo1	Bo-2	Agumon + O Candmon + XX Pico Devimon + OO	IV	Blue		Fallen Angel	Virus	NSo	C	440	390	210	(O)Has the ability "sky".	III30 IV20 P10 U10
+Leomon	Bo1	Bo-3	Piyomon + OO Palmon + OO	IV	Blue		Beast Man	Vaccine	NSp	A	420	390	180	None	III20 IV10 P10 U10
+Orgemon	Bo1	Bo-4	Patamon + OO Kunemon + OO	IV	Blue		Oni	Virus	NSo	C	430	390	150	None	III30 IV10 P10 U10
+Meramon	Bo1	Bo-5	Agumon + XX Bakumon + O Candmon + O	IV	Blue		Flame	Data	NSo	B	420	350	180	None	III20 IV10 P10 U10
+SeadramonB	Bo1	Bo-6	Ganimon + O Shakomon + OO	IV	Blue		Aquatic	Data	DS	B	420	330	220	(O)Has the ability "underwater".	III30 IV10 P10 U10
+Yukidarumon	Bo1	Bo-7	Gabumon + XX	IV	Blue		Ice-Snow	Vaccine	NSp	A	440	360	180	None	III20 IV10 P10 U10
+Tonosama Gekomon	Bo1	Bo-8	Jogress Evolution Starmon + Kuwagamon Monochromon + Gekomon	Perfect	Blue		Amphibian	Virus	NSp	C	470	430	220	None	III30 IV20 P20 U10
+Shellmon	Bo1	Bo-9	Kunemon + O	IV	Blue		Aquatic	Data	DS	B	400	350	180	(O)Has the abilities "underwater" and "underground".	III30 IV20 P10 U10
+Drimogemon	Bo1	Bo-10	Kunemon + X	IV	Blue		Beast	Data	NSp	B	420	380	150	(O)Has the ability "underground".	III20 IV10 P10 U10
+Andromon	Bo1	Bo-11	Unimon + Winning Percentage: 40%! Orgemon + Winning Percentage: 40%! Shellmon + Winning Percentage: 40%!	Perfect	Blue		Cyborg	Vaccine	ME	A	480	530	150	None	III30 IV20 P20 U10
+Monochromon	Bo1	Bo-12	Piyomon + OO Gottsumon + OO	IV	Blue		Ankylosaur	Data	NSp	B	440	360	190	None	III20 IV10 P10 U10
+Kuwagamon	Bo1	Bo-13	Piyomon + XX Palmon + XX Tentomon + XX	IV	Blue		Insect	Virus	NSp	C	420	380	160	(O)Has the ability "sky".	III20 IV20 P10 U10
+Mojyamon	Bo1	Bo-14	Palmon + XX	IV	Blue		Rare Animal	Vaccine	NSp	A	400	370	170	None	III20 IV10 P10 U10
+Tailmon	Bo1	Bo-15	Tentomon + O Gottsumon + O Otamamon + OO	IV	Blue		Holy Beast	Vaccine	NSp	A	430	360	150	None	III40 IV30 P20 U10
+Angewomon	Bo1	Bo-16	Jogress Evolution Kabuterimon + Monochromon Tailmon + Starmon	Perfect	Blue		Archangel	Vaccine	NSp	A	480	400	250	(O)Has the ability "sky".	III30 IV30 P10 U10
+Holydramon	Bo1	Bo-17	Atlur Kabuterimon + Winning Percentage: 40%! Okuwamon + Winning Percentage: 40%! Angewomon + Winning Percentage: 40%!	Ultimate	Blue		Holy Dragon	Vaccine	NSp	A	570	520	320	(O)Has the ability "sky". (O)Regain 30 points when you evolve into this Digimon.	III40 IV30 P30 U10
+Ebidramon	Bo1	Bo-18	Gomamon + OO Ganimon + O	IV	Blue		Aquatic	Data	DS	B	420	340	190	(O)Has the ability "underwater".	III20 IV10 P10 U10
+Gorimon	Bo1	Bo-19	Agumon + XX Gabumon + XX	IV	Blue		Beast Man	Data	UK	B	430	340	180	None	III20 IV20 P10 U10
+Evilmon	Bo1	Bo-20	Piyomon + XX Pico Devimon + OO	IV	Blue		Small Devil	Virus	UK	C	410	330	190	(O)Has the ability "sky".	III30 IV10 P10 U10
+Minotaurmon	Bo1	Bo-21	Orgemon + Winning Percentage: 60%! Leomon + Winning Percentage: 60%! 	Perfect	Blue		Beast Man	Virus	UK	C	460	400	230	None	III30 IV10 P10 U10
+Lady Devimon	Bo1	Bo-22	Devimon + Winning Percentage: 60%! Angemon + Winning Percentage: 60%! 	Perfect	Blue		Fallen Angel	Virus	UK	C	480	410	240	(O)Has the ability "sky".	III30 IV30 P10 U10
+Gokimon	Bo1	Bo-23	Kunemon + OO Tentomon + XX	IV	Blue		Insect	Virus	UK	C	400	300	210	(O)Has the ability "sky".	III20 IV10 P10 U10
+Asuramon	Bo1	Bo-24	Unimon + Winning Percentage: 60%! Orgemon + Winning Percentage: 60%! Shellmon + Winning Percentage: 60%! 	Perfect	Blue		Demon Man	Vaccine	UK	A	480	520	210	None	III40 IV30 P10 U10
+Snimon	Bo1	Bo-25	Gabumon + OX	IV	Blue		Insect	Vaccine	UK	A	420	350	190	None	III20 IV10 P10 U10
+Jyagamon	Bo1	Bo-26	Jogress Evolution Kabuterimon + Monochromon Tortamon + Starmon	Perfect	Blue		Plant	Vaccine	NSp	A	460	420	210	None	III30 IV20 P10 U10
+Metal Etemon	Bo1	Bo-27	Jogress Evolution Tonosama Gekomon + Perfect Digimon Okuwamon + Perfect Digimon	Ultimate	Blue		Cyborg	Virus	NSp	C	560	520	330	(O)Regain 30 points when you evolve into this Digimon.	III40 IV30 P30 U10
+Ganimon	Bo1	Bo-28	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III	Blue		Crustacean	Data	DS	B	340	250	110	(O)Has the ability "underground".	III10 IV10 P10 U10
+Shakomon	Bo1	Bo-29	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III	Blue		Crustacean	Virus	DS	C	320	250	120	(O)Has the ability "underwater".	III10 IV10 P10 U10
+Gesomon	Bo1	Bo-30	Shakomon + XX Ganimon + OO	IV	Blue		Mollusk	Virus	DS	C	420	380	150	(O)Has the ability "underwater".	III30 IV10 P10 U10
+Mega Seadramon	Bo1	Bo-31	Seadramon + Winning Percentage: 60%! Coelamon + Winning Percentage: 60%!	Perfect	Blue		Aquatic	Data	DS	B	470	420	210	(O)Has the ability "underwater".	III30 IV20 P10 U10
+Anomalocarimon	Bo1	Bo-32	Jogress Evolution Coelamon + Seadramon Gesomon + Ikkakumon Octmon + Rukamon	Perfect	Blue		Ancient Crustacean	Data	DS	B	470	430	220	(O)Has the ability "underwater".	III30 IV20 P10 U10
+Dagomon	Bo1	Bo-33	Jogress Evolution Gesomon + Seadramon Octmon + Coelamon	Perfect	Blue		Aquatic Beast Man	Virus	DS	C	480	420	250	(O)Has the ability "underwater".	III40 IV30 P10 U10
+Marin Angemon	Bo1	Bo-34	Mega Seadramon + Winning Percentage: 60%! Zudomon + Winning Percentage: 60%! 	Ultimate	Blue		Fairy	Vaccine	DS	A	530	470	350	(O)Has the ability "underwater". (O)Regain 30 points when you evolve into this Digimon.	III40 IV30 P20 U10
+Metal Seadramon	Bo1	Bo-35	Jogress Evolution Anomalocarimon + Mega Seadramon	Ultimate	Blue		Cyborg	Data	DS	B	550	480	330	(O)Has the ability "underwater". (O)Regain 30 points when you evolve into this Digimon.	III40 IV30 P30 U10
+Bakumon	Bo1	Bo-36	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III	Blue		Holy Beast	Vaccine	NSo	A	360	220	120	None	III10 IV10 P10 U10
+Pumpmon	Bo1	Bo-37	Jogress Evolution Devimon + Hanumon Bakemon + Garurumon	Perfect	Blue		Puppet	Data	NSo	B	478	420	250	None	III30 IV30 P10 U10
+Vamdemon	Bo1	Bo-38	Devimon + Winning Percentage: 60%! Bakemon + Winning Percentage: 60%! 	Perfect	Blue		Undead	Virus	NSo	C	460	350	230	None	III40 IV30 P10 U10
+Fantomon	Bo1	Bo-39	Jogress Evolution Devimon + Meramon Bakemon + Wizarmon	Perfect	Blue		Ghost	Virus	NSo	C	480	400	250	None	III30 IV20 P10 U10
+Skull Mammon	Bo1	Bo-40	Mammon + Winning Percentage: 60%! Vamdemon + Winning Percentage: 60%! 	Ultimate	Blue		Undead	Vaccine	NSo	A	580	480	300	(O)Regain 30 points when you evolve to this Digimon.	III40 IV30 P30 U10
+Boltmon	Bo1	Bo-41	Jogress Evolution Death Meramon + Pumpmon	Ultimate	Blue		Cyborg	Data	NSo	B	570	490	280	(O)Regain 30 points when you evolve to this Digimon.	III40 IV40 P20 U10
+Piemon	Bo1	Bo-42	Jogress Evolution Vamdemon + Perfect Digimon Fantomon + Perfect Digimon	Ultimate	Blue		Demon Man	Virus	NSo	C	560	490	350	(O)Regain 30 points when you evolve to this Digimon.	III40 IV40 P30 U20
+Mega Hand	Bo1	Bo-43	Battle Phase		Blue		Item							(O)During battle, when facing an opponent with the ability "sky", add 50 to your attack power. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated by the opponent, or when your Digimon loses the battle or reaches the end of its lifespan.	
+Coral Charm	Bo1	Bo-44	Battle Phase		Blue		Item							(O)During battle, when facing an opponent with the ability "underwater", add 50 to your attack power. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated, or when your Digimon loses a battle or reaches the end of its lifespan.	
+The Master of the Lake's Flute	Bo1	Bo-45	Battle Phase		Blue		Item							(O)You gain the ability "underwater". After that, add 20 to your attack power. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated, or when your Digimon loses a battle or reaches the end of its lifespan.	
+White Wings	Bo1	Bo-46	Battle Phase		Blue		Item							(O)You gain the ability "sky". After that, add 20 to your attack power. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated, or when your Digimon loses a battle or reaches the end of its lifespan.	
+Steel Drill	Bo1	Bo-47	Battle Phase		Blue		Item							(O)You gain the ability "underground". After that, add 20 to your attack power. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated, or when your Digimon loses a battle or reaches the end of its lifespan.	
+Organic Fertilizer	Bo1	Bo-48	Battle Phase		Blue		Item							(O)Add 20 to the attack power of your and your opponent's Plant and Insect Digimon. (O)This card remains in its slot and continues its effects until it is discarded by you or invalidated, or when your Digimon loses a battle or reaches the end of its lifespan.	
+No Items Allowed!	Bo1	Bo-49	Battle Phase		Blue		Program							(O)Invalidate one of the opponent's Item Option cards and send it to the Dark Area.	
+Emergency Program Halt!	Bo1	Bo-50	Battle Phase		Blue		Program							(O)Invalidate one of the opponent's Program Option cards before it takes effect, and send it to the Dark Area. (O)At the end of the Battle Phase during which this card was used, send it to the Dark Area.	
+Let's Stop Fighting	Bo1	Bo-51	Battle Phase		Blue		Program							(O)The battle ends in a draw. (O)At the end of the Battle Phase during which this card was used, send it to the Dark Area.	
+Nose Dive from the Sky!	Bo1	Bo-52	Battle Phase		Blue		Program							(O)When the opponent's Battle Type is B or C, add 100 to your attack power. (O)This card can only be used if you have the ability "sky". (O)At the end of the Battle Phase during which this card was used, send it to the Dark Area.	
+Surprise Attack from Underground!	Bo1	Bo-53	Battle Phase		Blue		Program							(O)When your opponent's Battle Type is B, double your attack power. (O)This card can only be used if you have the ability "underground". (O)At the end of the Battle Phase during which this card was used, send it to the Dark Area.	
+Attack from Underwater!	Bo1	Bo-54	Battle Phase		Blue		Program							(O)When the opponent's Battle Type is A, halve the opponent's attack power. (O)This card can only be used if you have the ability "underwater". (O)At the end of the Battle Phase during which this card was used, send it to the Dark Area.	

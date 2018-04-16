@@ -1,0 +1,136 @@
+<plugin>
+
+
+
+<playerstat>
+     <label>Point Gauge</label>
+     <initialvalue>100</initialvalue>
+</playerstat>
+
+
+
+<deckzone>
+     <label>Net Ocean</label>
+     <gamezonetoloadto>Net Ocean</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Side Deck</label>
+     <gamezonetoloadto>Side Deck</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Net Ocean</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Dark Area</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Point Gauge</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Side Deck</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+
+
+<phase><label>Preparation Phase</label></phase>
+
+<phase><label>Evolution Phase</label></phase>
+
+<phase><label>Battle Phase</label></phase>
+
+<phase><label>Point Phase</label></phase>
+
+<phase><label>End Phase</label></phase>
+
+
+
+<generalfunction><label>Draw Cards</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction>
+		<label>Point Marker</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Net Ocean</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner>
+		<destinationgamezone>Point Gauge</destinationgamezone>
+		<destinationposition>top</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+<generalfunction>
+		<label>Growth</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Net Ocean</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>table</destinationowner>
+		<destinationposition>facedown</destinationposition>
+		<destinationposition>MAKERIGHT90DEGREES</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+</generalfunction>
+	
+<generalfunction>
+		<label>Mill</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Net Ocean</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner>
+		<destinationgamezone>Dark Area</destinationgamezone>
+		<destinationposition>top</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+
+
+<cardfunction><label>Turn 1</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Turn 2</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Turn 3</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<cardfunction><label>Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+
+
+</plugin>

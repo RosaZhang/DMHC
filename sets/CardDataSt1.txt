@@ -1,0 +1,61 @@
+Name	Set	ImageFile	Evo/Activation	Level	Frame	Group	Type	Attribute	Field	AT	AP	BP	CP	Abilities	LostPoint
+Wizardmon	St1	St-44	Bakumon + XX Pico Devimon + X Candmon + X	IV 	Blue		Demon Man	Data	NSo	B	400	370	170	None	III20 IV10 P10 U10
+Agumon	St1	St-1	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III	Blue		Reptile	Vaccine	NSp	A	360	230	160	None	III10 IV10 P10 U10
+Greymon	St1	St-2	Agumon + OO	IV	Blue		Dinosaur	Vaccine	NSp	A	440	340	200	None	III20 IV10 P10 U10
+Piyomon	St1	St-3	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III	Blue		Chick	Data	WG	A	360	240	130	(O)Has the ability "sky".	III10 IV10 P10 U10
+Birdramon 	St1	St-4 	Piyomon + O	IV 	Blue		Giant Bird 	Vaccine 	WG 	B 	410	360	200	(O)Has the ability "sky".	III20 IV10 P10 U10
+Gabumon 	St1	St-5 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Reptile 	Data 	NSp 	B 	350	240	150	None	III10 IV10 P10 U10
+Garurumon 	St1	St-6 	Gabumon + XX Bakumon + X	IV 	Blue		Beast 	Data 	NSo 	B 	410	330	180	None	III20 IV10 P10 U10
+Tentomon 	St1	St-7 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Insect 	Vaccine 	NSp 	A 	320	250	120	(O)Has the ability "sky".	III10 IV10 P10 U10
+Kabuterimon 	St1	St-8 	Tentomon + OO Gabumon + OO	IV 	Blue		Insect 	Vaccine 	NSp 	A 	420	340	190	(O)Has the ability "sky".	III20 IV10 P10 U10
+Palmon 	St1	St-9 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Plant 	Data 	NSp 	A 	350	250	150	None	III10 IV10 P10 U10
+Togemon 	St1	St-10 	Palmon + OO Agumon + OO	IV 	Blue		Plant 	Data 	WG 	C 	380	300	180	None	III20 IV10 P10 U10
+Gomamon 	St1	St-11 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Marine Animal 	Vaccine 	DS	A	360	250	110	(O)Has the ability "underwater".	III10 IV10 P10 U10
+Ikkakumon 	St1	St-12 	Gomamon + O Shakomon + OO	IV 	Blue		Marine Animal 	Vaccine 	DS	A 	430	360	150	(O)Has the ability "underwater".	III20 IV10 P10 U10
+Patamon 	St1	St-13 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Mammal 	Data 	WG	B 	360	250	150	(O)Has the ability "sky".	III10 IV10 P10 U10
+Angemon 	St1	St-14 	Patamon + O Gabumon + O Palmon + O	IV 	Blue		Angel 	Vaccine 	WG 	A 	420	360	170	(O)Has the ability "sky".	III20 IV10 P10 U10
+Nanimon 	St1	St-15 	Piyomon + X Palmon + X	IV 	Blue		Mutant 	Virus 	UK 	C 	280	220	120	(O)If you win the battle, send one card from the opponent's Net Ocean to the Dark Area.	III10 IV10 P10 U10
+Unimon 	St1	St-16 	Patamon + OO	IV 	Blue		Beast 	Vaccine 	WG 	A 	400	320	190	(O)Has the ability "sky".	III20 IV10 P10 U10
+Centalmon 	St1	St-17 	Patamon + XX	IV 	Blue		Beast Man 	Data 	NSp 	B 	410	360	200	None	III20 IV10 P10 U10
+Kunemon 	St1	St-18 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Larva 	Virus 	NSp 	C 	340	240	120	(O)Has the ability "underground".	III10 IV10 P10 U10
+Dokugumon 	St1	St-19 	Piyomon + OX Palmon + OX	IV 	Blue		Insect 	Virus 	UK 	C 	420	350	170	None	III20 IV10 P10 U10
+Musyamon 	St1	St-20 	Patamon + OX Kunemon + OX	IV 	Blue		Demon Man 	Virus 	UK 	C 	470	350	170	None	III20 IV10 P10 U10
+Chimairamon 	St1	St-21 	Nanimon + Winning Percentage: 40%!	Perfect 	Blue		Composite 	Data 	UK 	B 	480	520	220	(O)Has the ability "sky".	III40 IV20 P10 U10
+Golemon 	St1	St-22 	Agumon + OX Piyomon + OX	IV 	Blue		Rock 	Virus 	UK 	C 	410	300	200	(O)Has the ability "underground".	III20 IV10 P10 U10
+Gottsumon 	St1	St-23 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Ore 	Data 	NSp 	B 	330	250	100	(O)Has the ability "underground".	III10 IV10 P10 U10
+Otamamon 	St1	St-24 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Amphibian 	Virus 	NSp 	C 	300	240	120	(O)Has the ability "underground".	III10 IV10 P10 U10
+Tortamon 	St1	St-25 	Tentomon + O Gottsumon + OO tamamon + OO	IV 	Blue		Reptile 	Vaccine 	NSp 	A 	430	360	150	None	III20 IV10 P10 U10
+Starmon 	St1	St-26 	Gottsumon + XX Otamamon + OO	IV 	Blue		Mutant 	Data 	NSp 	B 	460	350	200	None	III20 IV10 P10 U10
+Gekomon 	St1	St-27 	Tentomon + X Gottsumon + XX Otamamon + X	IV 	Blue		Amphibian 	Virus 	NSp 	C 	450	390	200	None	III30 IV10 P10 U10
+Atlur Kabuterimon 	St1	St-28 	Kabuterimon + Winning Percentage: 40%! Tortamon + Winning Percentage: 40%! Birdramon + Winning Percentage: 40%!	Perfect 	Blue		Insect 	Vaccine 	NSp 	A 	450	340	250	None	III30 IV30 P20 U10
+Triceramon 	St1	St-29 	Starmon + Winning Percentage: 40%! Monochromon + Winning Percentage: 40%! Greymon + Winning Percentage: 40%!	Perfect 	Blue		Ceratopsian 	Data 	NSp 	B 	470	430	250	None	III30 IV20 P10 U10
+Piccolomon 	St1	St-30 	Jogress Evolution Tortamon + Gekomon Monochromon + Starmon Dokugumon + Golemon	Perfect 	Blue		Fairy 	Data 	NSp 	B 	470	420	220	(O)Has the ability "sky".	III30 IV20 P10 U10
+Okuwamon 	St1	St-31 	Kuwagamon + Winning Percentage: 40%! Gekomon + Winning Percentage: 40%!	Perfect 	Blue		Insect 	Virus 	NSp 	C 	470	380	220	(O)Has the ability "sky".	III30 IV20 P10 U10
+Skull Greymon 	St1	St-32 	Kabuterimon + Winning Percentage: 40%! Angemon + Winning Percentage: 40%! Birdramon + Winning Percentage: 40%! Greymon + Winning Percentage: 40%!	Perfect 	Blue		Skeleton 	Virus 	NSo 	C 	500	430	150	None	III30 IV20 P10 U10
+Herakle Kabuterimon 	St1	St-33 	Atlur Kabuterimon + Winning Percentage: 60%! Okuwamon + Winning Percentage: 60%!	Ultimate 	Blue		Insect 	Vaccine 	NSp 	A 	520	470	290	(O)Has the ability "sky".(O)Regain 30 points when you evolve into this Digimon. 	III40 IV30 P20 U10
+Saber Leomon 	St1	St-34 	Jogress Evolution Triceramon + Piccolomon	Ultimate 	Blue		Ancient Beast 	Data 	NSp 	B 	550	500	310	(O)Regain 30 points when you evolve into this Digimon.	III40 IV30 P20 U10
+Rukamon 	St1	St-35 	Gomamon + O Ganimon + O	IV 	Blue		Aquatic Mammal 	Vaccine 	DS 	A 	400	380	180	(O)Has the ability "underwater".	III20 IV10 P10 U10
+Coelamon 	St1	St-36 	Gomamon + O OGanimon + O	IV 	Blue		Ancient Fish 	Data 	DS 	B 	410	350	190	(O)Has the ability "underwater".	III20 IV10 P10 U10
+Octmon 	St1	St-37 	Gomamon + XX Shakomon + XX	IV 	Blue		Mollusk 	Virus 	DS 	C 	450	390	180	(O)Has the ability "underwater".	III30 IV20 P10 U10
+Zudomon 	St1	St-38 	Ikkakumon + Winning Percentage: 40%! Rukamon + Winning Percentage: 40%! Golemon + Winning Percentage: 40%!	Perfect 	Blue		Marine Animal 	Vaccine 	DS 	A 	490	390	230	(O)Has the ability "underwater".	III30 IV20 P10 U10
+Marin Devimon 	St1	St-39 	Gesomon + Winning Percentage: 40%! Octmon + Winning Percentage: 40%!	Perfect 	Blue		Aquatic Beast Man 	Virus 	DS 	C 	470	450	220	(O)Has the ability "underwater".	III30 IV20 P10 U10
+Pukumon 	St1	St-40 	Jogress Evolution Marin Devimon + Perfect Digimon Dagomon + Perfect Digimon	Ultimate 	Blue		Mutant 	Virus 	DS 	C 	520	480	250	(O)Has the ability "underwater". (O)Regain 30 points when you evolve into this Digimon. 	III40 IV30 P20 U10
+Candmon 	St1	St-41 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Flame 	Data 	NSo 	B 	320	250	120	None	III10 IV10 P10 U10
+Pico Devimon 	St1	St-42 	Unless this Digimon is replaced with another Level III Digimon, it cannot be sent to the Dark Area.	III 	Blue		Small Devil 	Virus 	NSo 	C 	310	250	120	(O)Has the ability "sky".	III10 IV10 P10 U10
+Hanumon 	St1	St-43 	Bakumon + OO Candmon + OO	IV 	Blue		Beast Man 	Vaccine 	NSo 	A 	400	370	170	None	III20 IV10 P10 U10
+Bakemon 	St1	St-45 	Pico Devimon + X	IV 	Blue		Ghost 	Virus 	NSo 	C 	420	390	190	(O)If the opponent's Level IV and above Digimon do not win the battle, they are sent to the Dark Area.	III30 IV20 P10 U10
+Mammon 	St1	St-46 	Hanumon + Winning Percentage: 60%! Garurumon + Winning Percentage: 60%!	Perfect 	Blue		Ancient Beast 	Vaccine 	NSo 	A 	450	400	220	None	III30 IV20 P10 U10
+Were Garurumon 	St1	St-47 	Jogress Evolution Meramon + Hanumon Garurumon + Wizarmon	Perfect 	Blue		Beast Man 	Data 	NSo 	A 	450	400	250	None	III40 IV30 P20 U10
+Death Meramon 	St1	St-48 	Meramon + Winning Percentage: 40%! Wizarmon + Winning Percentage: 40%! Angemon + Winning Percentage: 40%!	Perfect 	Blue		Flame 	Data 	NSo 	B 	480	420	230	None	III30 IV30 P10 U10
+Offense Plug-In A 	St1	St-49 	Battle Phase		Blue		Item							(O)During battle, your attack becomes A regardless of the opponent's battle type. (O)At the end of the turn during which this card was used, send it to the Dark Area.	
+Defense Plug-In C 	St1	St-50 	Battle Phase		Blue		Item							(O)During battle, your attack becomes C regardless of the opponent's battle type. (O)At the end of the turn during which this card was used, send it to the Dark Area.	
+High Speed Plug-In B 	St1	St-51 	Battle Phase		Blue		Item							(O)During battle, your attack becomes B regardless of the opponent's battle type. (O)At the end of the turn during which this card was used, send it to the Dark Area.	
+If I Lose I'm Taking You with Me! 	St1	St-52 	Battle Phase (O)Send out this card face-up.		Blue		Program							(O)When you lose the battle, send the top 3 cards of the opponent's Net Ocean to the Dark Area. (O)At the end of the Battle Phase of the turn during which this card was played, send it to the Dark Area.	
+Just a Little Metal Enhancement 	St1	St-53 	Battle Phase (O)Choose one card from your hand and send it to the Dark Area.		Blue		Program							(O)Add 50 to your attack power. (O)At the end of the turn during which this card was used, send it to the Dark Area.	
+A Counterattack from Crisis! 	St1	St-54 	Battle Phase		Blue		Program							(O)When you are in a battle with a Digimon of a higher level than yours, double your attack power. (O)At the end of the turn during which this card was used, send it to the Dark Area. (O)This card cannot be used when your Digimon is Level III.	
+Transform to Level IV! 	St1	St-55 	Evolution Phase (O)Send this card face-down from your hand or slot to your Evolution Requirements box.		Blue		Program							(O)Ignore all evolution requirements and transform your Digimon into the Level IV Digimon currently placed in your Evolution box. (O)This card cannot be used when your Digimon is Level III.	
+Aim for the Strongest Evolution! 	St1	St-56 	Evolution Phase (O)Send this card face-down from your hand or slot to your Evolution Requirements box.		Blue		Program							(O)Ignore all evolution requirements and evolve your Digimon into a Digimon of the next level currently placed in your Evolution box. After that, send your whole hand to the Dark Area.	
+That Was a Good Time 	St1	St-57 	Battle Phase (O)Choose one card from your hand and send it to the Dark Area.		Blue		Program							(O)Return your or your opponent's Level IV Digimon back to the Level III Digimon it was before evolving, without any conditions. (O)At the end of the Battle Phase during which this card was used, send this card to the Dark Area.	
+The Battle I Staked My Pride On! 	St1	St-58 	Battle Phase (O)You may only place one of this card in your slots; after sending the top three cards of your Net Ocean to the Dark Area, send this card out face-up.		Blue		Program							(O)When you win the battle on the turn during which this card was played, double the opponent's lost points. (O)This card cannot be used when your Digimon is Level III. (O)At the end of the turn during which this card was played, send it to the Dark Area.	
+Winning Percentage: 40%! 	St1	St-59 	Evolution Phase (O)Send this card face-down from your hand or slot to the Evolution Requirements box.		Blue		Program							(O)Evolve your Digimon into a Digimon of the next level with Winning Percentage: 40%! in its evolution requirements.	
+Winning Percentage: 60%! 	St1	St-60 	Evolution Phase (O)Send this card face-down from your hand or slot to the Evolution Requirements box.		Blue		Program							(O)Evolve your Digimon into a Digimon of the next level with Winning Percentage: 40%! or Winning Percentage: 60%! in its evolution requirements. After evolution, choose one card from your hand and send it to the Dark Area.	

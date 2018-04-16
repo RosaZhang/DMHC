@@ -1,0 +1,11 @@
+<save>
+<phase>2</phase>
+<player>
+<name>Rosa</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+</player>
+</save>
