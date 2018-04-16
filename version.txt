@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>180416</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/updatelist.txt</updateurl>
+<message>Symbiosis and minor changes. CRosaZhang/DMHC/master/changelog.txt</message>
+</version>

@@ -1,0 +1,9 @@
+CHANGELOG DigimonHC plugin
+
+
+
+--------
+1 beta release public
+
+NEW
+- Auto Update Feature
