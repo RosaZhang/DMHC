@@ -1,4 +1,4 @@
-DigimonHC	04-16-18
+DigimonHC	04-19-18
 plugins/DigimonHC/version.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt 5467
 plugins/DigimonHC/plugininfo.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/plugininfo.txt 3477
 plugins/DigimonHC/changelog.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt 3234
@@ -10,6 +10,8 @@ plugins/DigimonHC/images/Phase3.jpg https://raw.githubusercontent.com/RosaZhang/
 plugins/DigimonHC/images/Phase4.jpg https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/Phase4.jpg 2461
 plugins/DigimonHC/images/Phase5.jpg https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/Phase5.jpg 4213
 plugins/DigimonHC/sets/setimages/general/cardback.jpg https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/general/cardback.jpg 5021
+images/backgrounds/DigimonHC.png https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/DigimonHC.png 780
+images/backgrounds/DigimonHC-3..png https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/DigimonHC-3..png 896
 plugins/DigimonHC/sets/CardData20A.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardData20A.txt 2347
 plugins/DigimonHC/sets/CardDataBo1.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataBo1.txt 3447
 plugins/DigimonHC/sets/CardDataBo2.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataBo2.txt 4547
