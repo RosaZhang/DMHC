@@ -4,7 +4,7 @@
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<recenttablebackgrounds>DigimonHC.png</recenttablebackgrounds>
+<recenttablebackgrounds>DigimonHC-3..png</recenttablebackgrounds>
 <recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
 <recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
 <canned>Your Turn!</canned>
