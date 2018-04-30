@@ -6,4 +6,4 @@ CHANGELOG DigimonHC plugin
 1 beta release public
 
 NEW
-- New Playmats y New CardData format
+- New Reprints for 20A (alternate artwork) and more Fixes.
