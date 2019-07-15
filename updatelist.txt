@@ -1,4 +1,4 @@
-DigimonHC	04-30-18
+DigimonHC	07-15-19
 plugins/DigimonHC/version.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt 5467
 plugins/DigimonHC/plugininfo.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/plugininfo.txt 3477
 plugins/DigimonHC/changelog.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt 3234
