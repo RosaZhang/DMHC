@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>190715</lastupdateYYMMDD>
+<lastupdateYYMMDD>190811</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/updatelist.txt</updateurl>
-<message>Reprints and More Fixes Change log: https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt</message>
+<message>New Cards Change log: https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt</message>
 </version>

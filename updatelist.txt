@@ -1,4 +1,4 @@
-DigimonHC	07-15-19
+DigimonHC	08-11-19
 plugins/DigimonHC/version.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt 5467
 plugins/DigimonHC/plugininfo.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/plugininfo.txt 3477
 plugins/DigimonHC/changelog.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt 3234
@@ -56,6 +56,7 @@ plugins/DigimonHC/sets/CardDataSt14.txt https://raw.githubusercontent.com/RosaZh
 plugins/DigimonHC/sets/CardDataSt15.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataSt15.txt 24747
 plugins/DigimonHC/sets/CardDataSt16.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataSt16.txt 24847
 plugins/DigimonHC/sets/CardDataNEW.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataNEW.txt 24947
+plugins/DigimonHC/sets/CardDataNEW2.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataNEW2.txt 25047
 plugins/DigimonHC/sets/CardDataEXP.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataEXP.txt 747
 plugins/DigimonHC/sets/CardDataPROM1.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataPROM1.txt 847
 plugins/DigimonHC/sets/CardDataPROM2.txt https://raw.githubusercontent.com/RosaZhang/DMHC/master/sets/CardDataPROM2.txt 947
