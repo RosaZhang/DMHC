@@ -1,6 +1,0 @@
-<version>
-<lastupdateYYMMDD>190811</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/RosaZhang/DMHC/master/updatelist.txt</updateurl>
-<message>New Cards Change log: https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt</message>
-</version>
