@@ -1,0 +1,7 @@
+<uninstall>
+
+<dateYYMMDD>200304</dateYYMMDD>
+
+<removepath>sets/CardDataSt5.txt</removepath>
+
+</uninstall>
