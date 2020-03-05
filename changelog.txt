@@ -1,9 +1,0 @@
-CHANGELOG DigimonHC plugin
-
-
-
---------
-1 beta release public
-
-NEW
-- New set "NEW2"
