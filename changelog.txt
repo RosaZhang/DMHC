@@ -1,0 +1,3 @@
+CHANGELOG DigimonHC plugin
+
+Card Name Errors Fixed.
