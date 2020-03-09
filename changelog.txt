@@ -1,0 +1,3 @@
+CHANGELOG DigimonHC plugin
+
+Kizuna Cards Added, set is called KIZU.
