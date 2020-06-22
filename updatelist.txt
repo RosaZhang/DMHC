@@ -1,9 +1,10 @@
-DigimonHC	08-03-20
-plugins/DigimonHC/version.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt	35683
+DigimonHC	22-06-20
+plugins/DigimonHC/version.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/version.txt	34419
 plugins/DigimonHC/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/plugininfo.txt	357236
 plugins/DigimonHC/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/uninstall.txt	8971
-plugins/DigimonHC/changelog.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt	5571
-plugins/DigimonHC/pluginpreferences.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/pluginpreferences.txt	304448
+plugins/DigimonHC/formats.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/formats.txt	143062
+plugins/DigimonHC/changelog.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/changelog.txt	25455
+plugins/DigimonHC/pluginpreferences.txt	https://raw.githubusercontent.com/RosaZhang/DMHC/master/pluginpreferences.txt	304451
 plugins/DigimonHC/bot.jpg	https://raw.githubusercontent.com/RosaZhang/DMHC/master/bot.jpg	283024
 plugins/DigimonHC/images/Phase1.jpg	https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/Phase1.jpg	225278
 plugins/DigimonHC/images/Phase2.jpg	https://raw.githubusercontent.com/RosaZhang/DMHC/master/images/Phase2.jpg	282040
