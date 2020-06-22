@@ -1,3 +1,3 @@
 CHANGELOG DigimonHC plugin
 
-Kizuna Cards Added, set is called KIZU.
+New Formats added for limit the card pool: Adventure (Adventure and Adveture 02 cards), Tamers (Digimon Tamers cards), Frontier (Digimon Frontier cards), X Evolution (X-Antibody era cards) and Modern which add every single card in the game incluiding Promos.
