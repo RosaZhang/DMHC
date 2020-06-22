@@ -1,0 +1,117 @@
+<formatdefinitions>
+
+<format>
+     <label>Adventure</label>
+     <set>St1</set>
+     <set>St2</set>
+     <set>St3</set>
+	 <set>St4</set>
+	 <set>St5</set>
+	 <set>Bo1</set>
+	 <set>Bo2</set>
+	 <set>Bo3</set>
+	 <set>Bo4</set>
+	 <set>Bo5</set>
+	 <set>Bo6</set>
+	 <set>Bo7</set>
+	 <set>Bo8</set>
+</format>
+
+<format>
+     <label>Tamers</label>
+     <set>St5</set>
+     <set>St6</set>
+     <set>St7</set>
+	 <set>St8</set>
+	 <set>Bo9</set>
+	 <set>Bo10</set>
+	 <set>Bo11</set>
+	 <set>Bo12</set>
+	 <set>Bo13</set>
+</format>
+
+<format>
+     <label>Frontier</label>
+     <set>St9</set>
+     <set>St10</set>
+     <set>St11</set>
+	 <set>St12</set>
+	 <set>St13</set>
+	 <set>Bo14</set>
+	 <set>Bo15</set>
+	 <set>Bo16</set>
+	 <set>Bo17</set>
+	 <set>Bo18</set>
+</format>
+
+<format>
+     <label>X Evolution</label>
+     <set>St14</set>
+     <set>St15</set>
+	 <set>St16</set>
+	 <set>Bo19</set>
+	 <set>Bo20</set>
+	 <set>Bo21</set>
+	 <set>Bo22</set>
+	 <set>Bo23</set>
+	 <set>Bo24</set>
+	 <set>Bo25</set>
+	 <set>Bo26</set>
+</format>
+
+<format>
+     <label>Modern</label>
+     <set>St1</set>
+     <set>St2</set>
+     <set>St3</set>
+	 <set>St4</set>
+	 <set>St5</set>
+	 <set>Bo1</set>
+	 <set>Bo2</set>
+	 <set>Bo3</set>
+	 <set>Bo4</set>
+	 <set>Bo5</set>
+	 <set>Bo6</set>
+	 <set>Bo7</set>
+	 <set>Bo8</set>
+	 <set>St5</set>
+     <set>St6</set>
+     <set>St7</set>
+	 <set>St8</set>
+	 <set>Bo9</set>
+	 <set>Bo10</set>
+	 <set>Bo11</set>
+	 <set>Bo12</set>
+	 <set>Bo13</set>
+	 <set>St9</set>
+     <set>St10</set>
+     <set>St11</set>
+	 <set>St12</set>
+	 <set>St13</set>
+	 <set>Bo14</set>
+	 <set>Bo15</set>
+	 <set>Bo16</set>
+	 <set>Bo17</set>
+	 <set>Bo18</set>
+	 <set>St14</set>
+     <set>St15</set>
+	 <set>St16</set>
+	 <set>Bo19</set>
+	 <set>Bo20</set>
+	 <set>Bo21</set>
+	 <set>Bo22</set>
+	 <set>Bo23</set>
+	 <set>Bo24</set>
+	 <set>Bo25</set>
+	 <set>Bo26</set>
+	 <set>EXP</set>
+	 <set>PROM1</set>
+	 <set>PROM2</set>
+	 <set>NEW</set>
+	 <set>NEW2</set>
+	 <set>KIZU</set>
+	 <set>20A</set>
+</format>
+
+
+</formatdefinitions>
